@@ -1,0 +1,18 @@
+.button
+{
+    -fx-background-color: darkorange;
+}
+.accordion
+{
+    -fx-background-color: grey;
+}
+.text-field
+{
+    -fx-background-color: E4E1E1;
+}
+.combo-box {
+    -fx-background-color: E4E1E1;
+}
+.text-area {
+    -fx-background-color: E4E1E1;
+}
